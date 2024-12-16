@@ -1,4 +1,3 @@
-```markdown
 # NodeJS EC2 Deployment with Stripe Integration
 
 This repository demonstrates how to deploy a Node.js application with Stripe payment integration on an EC2 instance. The application listens on port 3000 and serves the application to the world through your EC2 server. 
